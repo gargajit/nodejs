@@ -1,0 +1,12 @@
+{
+  "name": "using-only-node",
+  "version": "1.0.0",
+  "description": "basic website using only node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajit Garg",
+  "license": "ISC"
+}
